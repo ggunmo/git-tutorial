@@ -3,3 +3,4 @@
  - fix-B
  - faeture-C
  - faeture-D
+ - feature-E
